@@ -1,0 +1,6 @@
+结构用.运算符和名字访问其成员
+    today.day
+    student.firstName
+    pl.x
+    pl.y
+//出现在.左边的一定是结构变量，不能是结构类型

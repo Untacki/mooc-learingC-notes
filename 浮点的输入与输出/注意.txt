@@ -1,0 +1,8 @@
+浮点的输入与输出
+类型         scanf         printf
+float         %f             %f,%e
+double        %lf            %f,%e
+
+超过范围的浮点数
+printf输出inf表示超过范围的浮点数：+-无穷
+printf输出nan表示不存在的浮点数

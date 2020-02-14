@@ -1,0 +1,9 @@
+//const int *p=与int *const p= 的区别
+//判断哪个被const的标志是const在*的前面还是后面
+int * const p=
+指针是const
+表示指针不能再变，不能在指向其他变量
+
+const int *p=&c；||  int const *p=&c；（两个表示相同的意思）
+表示不能通过p这个指针去修改c这个变量的值（并不意味着c的值不能改变）
+

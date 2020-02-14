@@ -1,0 +1,16 @@
+typedef
+声明新的类型的名字
+ ·新的名字是某种类型的别名
+ ·改善了程序的可读性
+typedef long int64_t;
+typedef struct ADate{int month;
+                                   int day;
+                                   int year;
+} Date;
+
+int64_t  i=10000000000;
+Date d={8,10,2018};//简化了复杂的名字
+
+typedef char*Strings[10];//Strings是10个字符串的数组的类型
+
+ 

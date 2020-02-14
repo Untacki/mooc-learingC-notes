@@ -1,0 +1,2 @@
+声明枚举量的时候可以指定值
+enum COLOR{RED=1,YELLOW,GREEN=5};

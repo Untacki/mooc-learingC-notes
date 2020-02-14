@@ -1,0 +1,6 @@
+·char string[8]
+·scanf("%s",string)
+·printf("string", word)
+
+
+·scanf读入一个单词（到空格、tab或回车为止）

@@ -1,0 +1,3 @@
+break vs continue
+break：跳出整个循环
+continue：跳过这一轮循环剩下的语句进入下一轮循环

@@ -1,0 +1,6 @@
+int strcmp（const char*s1，const char*s2）
+比较两个字符串
+返回值：
+0：s1==s2
+1：s1>s2
+-1: s1<s2
